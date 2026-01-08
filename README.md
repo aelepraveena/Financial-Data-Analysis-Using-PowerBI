@@ -18,9 +18,8 @@ This project contains an interactive Power BI report designed to analyze busines
 ##  Tools Used
 
 - Power BI Desktop  
-- Data Source: *(add your source — Excel/CSV/SQL/etc.)*
+- Data Source: Excel
 
-> If you skip documenting the data source, reviewers will assume you don’t understand your own project. Add it.
 
 ##  How to Use
 
@@ -41,4 +40,3 @@ You can extend the report by:
 - connecting different datasets  
 - modifying KPIs and calculations  
 
-I’ll tighten it further — and remove anything that makes it look like a generic template.
